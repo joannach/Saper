@@ -1,0 +1,28 @@
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\bin\Debug\Saper.exe.config
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\bin\Debug\Saper.exe
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\bin\Debug\Saper.pdb
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\obj\Debug\Saper.Form1.resources
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\obj\Debug\Saper.exe
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\obj\Debug\Saper.pdb
+c:\users\asia\documents\visual studio 2012\Projects\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Desktop\Saper\Saper\bin\Debug\Saper.exe.config
+C:\Users\Asia\Desktop\Saper\Saper\obj\Debug\Saper.exe
+C:\Users\Asia\Desktop\Saper\Saper\obj\Debug\Saper.pdb
+C:\Users\Asia\Desktop\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\Asia\Desktop\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\Asia\Desktop\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Desktop\Saper\Saper\obj\Debug\Saper.Form1.resources
+C:\Users\Asia\Desktop\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\Asia\Desktop\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+I:\Programowanie\Saper\Saper\bin\Debug\Saper.exe.config
+I:\Programowanie\Saper\Saper\obj\Debug\Saper.exe
+I:\Programowanie\Saper\Saper\obj\Debug\Saper.pdb
+I:\Programowanie\Saper\Saper\bin\Debug\Saper.exe
+I:\Programowanie\Saper\Saper\bin\Debug\Saper.pdb
+I:\Programowanie\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+I:\Programowanie\Saper\Saper\obj\Debug\Saper.Form1.resources
+I:\Programowanie\Saper\Saper\obj\Debug\Saper.OptionsForm.resources
+I:\Programowanie\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+I:\Programowanie\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
